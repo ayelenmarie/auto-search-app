@@ -1,0 +1,33 @@
+[
+    {
+        "_id": "018",
+        "isActive": "true",
+        "price": "20.00",
+        "picture": "/img/products/N16401_430.png",
+        "name": "Damage Reverse Thickening Shampoo",
+        "about":
+"Dolor voluptate velit consequat duis. Aute ad officia fugiat esse anim exercitation voluptate excepteur pariatur sit culpa duis qui esse. Labore amet ad eu veniam nostrud minim labore aliquip est sint voluptate nostrud reprehenderit. Ipsum nostrud culpa consequat reprehenderit.",
+        "tags": "['ojon', 'shampoo']"
+      },
+      {
+        "_id": "019",
+        "isActive": "false",
+        "price": "23.00",
+        "picture": "/img/products/N16501_430.png",
+        "name": "Damage Reverse Thickening Conditioner",
+        "about":
+"          Dolor voluptate velit consequat duis. Aute ad officia fugiat esse anim exercitation voluptate excepteur pariatur sit culpa duis qui esse. Labore amet ad eu veniam nostrud minim labore aliquip est sint voluptate nostrud reprehenderit. Ipsum nostrud culpa consequat reprehenderit.",
+        "tags": "['ojon', 'conditioner']"
+      },
+      {
+        "_id": "020",
+        "isActive": "false",
+        "price": "40.00",
+        "picture": "/img/products/N19601_430.png",
+        "name": "Rare Blend Oil Moisture Therapy Medium Texture",
+        "about":
+"          Dolor voluptate velit consequat duis. Aute ad officia fugiat esse anim exercitation voluptate excepteur pariatur sit culpa duis qui esse. Labore amet ad eu veniam nostrud minim labore aliquip est sint voluptate nostrud reprehenderit. Ipsum nostrud culpa consequat reprehenderit.",
+        "tags": "['ojon', 'texture']"
+      }
+    
+]
